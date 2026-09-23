@@ -107,21 +107,7 @@ creditwise-loan-approval/
 
 ---
 
-## 🚀 How to Run
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/creditwise-loan-approval.git
-cd creditwise-loan-approval
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the notebook
-jupyter notebook credit_wise.ipynb
-```
-
----
 
 ## 📦 Requirements
 
