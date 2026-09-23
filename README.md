@@ -154,7 +154,7 @@ pip install -r requirements.txt
 
 Vraj Patoliya 
 📧   
-🔗 [GitHub]((https://github.com/Vraj3363)) | [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/vraj-patoliya-0b125331a?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+🔗 [GitHub]([https://github.com/Vraj3363]) | [LinkedIn]([https://www.linkedin.com/in/vraj-patoliya-0b125331a?utm_source=share_via&utm_content=profile&utm_medium=member_ios])
 
 ---
 
